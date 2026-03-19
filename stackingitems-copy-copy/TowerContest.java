@@ -40,7 +40,7 @@ public class TowerContest {
 
         ArrayList<Long> orden = new ArrayList<Long>();
         
-        // Caso: todas afuera
+        // Caso en que van todas afuera
         if (h == sumaTotal) {
             for (int i = 0; i < n; i++) orden.add(alturas[i]);
             return orden;
