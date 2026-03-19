@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TowerContest
+comment0.text=\r\n\ Clase\ que\ resuelve\ y\ simula\ el\ problema\ de\ la\ marat\u00F3n\ Stacking\ Cups\r\n\ @author\ Yazid\ S\u00E1nchez\ -\ Sergio\ Ram\u00EDrez\r\n\ @version\ 3.0\r\n
+comment1.params=n\ h
+comment1.target=java.lang.String\ solve(int,\ long)
+comment1.text=\r\n\ Resuelve\ el\ problema\ de\ la\ marat\u00F3n\:\ encuentra\ el\ orden\ de\ inserci\u00F3n\r\n\ de\ n\ tazas\ para\ que\ la\ torre\ tenga\ exactamente\ altura\ h.\r\n\ @param\ n\ n\u00FAmero\ de\ tazas\r\n\ @param\ h\ altura\ deseada\r\n\ @return\ orden\ de\ inserci\u00F3n\ como\ un\ String\ o\ "impossible"\ si\ no\ es\ posible\r\n
+comment2.params=n\ h\ alturas\ sumaTotal\ minAltura
+comment2.target=java.util.ArrayList\ construirOrden(int,\ long,\ long[],\ long,\ long)
+comment3.params=n\ h
+comment3.target=void\ simulate(int,\ long)
+comment3.text=\r\n\ Simula\ visualmente\ la\ soluci\u00F3n\ del\ problema\ presentando\ \r\n\ Usa\ Tower\ para\ visualizar\ el\ orden\ de\ inserci\u00F3n\ que\ solve\ encontr\u00F3\r\n\ @param\ n\ n\u00FAmero\ de\ tazas\r\n\ @param\ h\ altura\ deseada\r\n
+numComments=4

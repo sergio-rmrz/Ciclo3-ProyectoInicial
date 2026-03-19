@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=TowerContestCTest
+comment0.text=\r\n\ Casos\ de\ prueba\ para\ la\ clase\ de\ prueba\ com\u00FAn\ TowerContestCTest\r\n\ @author\ Yazid\ S\u00E1nchez\ -\ Sergio\ Ram\u00EDrez\r\n\ @version\ 3.0\r\n
+comment1.params=
+comment1.target=void\ accordingRSShouldSolveExampleFromContest()
+comment2.params=
+comment2.target=void\ accordingRSShouldReturnImpossibleForContestExample()
+comment3.params=
+comment3.target=void\ accordingRSShouldSolveMinHeightForContest()
+comment4.params=
+comment4.target=void\ accordingRSShouldSolveMaxHeightForContest()
+comment5.params=
+comment5.target=void\ accordingRSShouldSolveStackedOutsideForContest()
+comment6.params=
+comment6.target=void\ accordingRSShouldSolveOneCupForContest()
+comment7.params=
+comment7.target=void\ accordingRSShouldReturnImpossibleWhenHeightBelowMinForContest()
+comment8.params=
+comment8.target=void\ accordingRSShouldReturnImpossibleWhenHeightAboveMaxForContest()
+numComments=9
